@@ -1,0 +1,5 @@
+RENCANA KONTEN DIAN
+- membuat youtube chanel edukasi
+-membuat tutorial database
+-membuat tutorial javasciprt
+-membuat tutuorial php
