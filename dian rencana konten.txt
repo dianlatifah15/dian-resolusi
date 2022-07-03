@@ -1,5 +1,6 @@
 RENCANA KONTEN DIAN
 - membuat youtube chanel edukasi
--membuat tutorial database
+-membuat tutorial database mysql
 -membuat tutorial javasciprt
--membuat tutuorial php
+-membuat tutuorial php dasar dan php oop
+
